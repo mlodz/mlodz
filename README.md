@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a fun toy for my kids, Talkie. [ Check out the demo!](talkie.mlodzianoski.com)
+- 🌱 I’m currently diving into the more recent front-end tech I haven't had a chance to explore yet, my favorite at the moment is Progressive Web Apps (PWAs).
+- 👯 I’m looking at contributing to an open source project, but I'm still searching for the right fit.
+- 📫 How to reach me: [linkedin.com/in/mlodz/](https://www.linkedin.com/in/mlodz/)
+- 😄 Currently working as an SMTS (Senior Software Engineer) at Salesforce on P13N.
+
 <!--
 **mlodz/mlodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
