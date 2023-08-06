@@ -1,34 +1,48 @@
 <!doctype html>
 <html class="no-js" lang="">
-<head>
-  <meta charset="utf-8">
-  <title>Color Search Demo - Steven Mlodzianoski</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#fafafa">
-</head>
-<body>
+  <head>
+    <meta charset="utf-8">
+    <title>Color Search Demo - Steven Mlodzianoski</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fafafa">
 
-  <h1>Color Search Demo - Steven Mlodzianoski</h1>
+    <link rel="stylesheet" href="bootstrap.min.3.4.1.css">
+    <link rel="stylesheet" href="style.css">
 
-  <p>
-    In 2019 I participated in a Hackday at Salesforce with three Data Scientists. 
-    I built the UI for our Color Search project. The highlight of the UI is a sliding color bar; 
-    as you slide a bar over a rainbow, the search results (of clothing) update in real time. I also 
-    provided a multi-color selection palette so search results could include multiple colors. And a 
-    Hackday project wouldn't be complete without a cheap "hack", so to increase speed results for 
-    the demo (they didn't have time to add caching in the data model) I added localStorage caching to 
-    the front-end to make the UI smooth. We won second place. Color Search was later built as an add-on 
-    feature to ecomm search. 
-  </p>
-  <h2>Video Demo</h2>
-  <iframe src="https://drive.google.com/file/d/1OSek5RKSysFEeZssaGTITQ7YsvukTtx_/preview" width="640" height="480" allow="autoplay"></iframe>
+  </head>
+  <body>
 
-  <h2>Screenshots</h2>
-  <img src="color-search-red.png" />
-  <img src="color-search-blue.png" />
-  <img src="color-search-multi.png" />
-  
-</body>
+    <div class="page">
+      <h1>Steven Mlodzianoski</h1>
+      <h2>Color Search Demo</h2>
+      <h3>About</h3>
+      <p>
+        In 2019 I participated in a Hackday at Salesforce with three Data Scientists.
+        I built the UI for our Color Search project. The highlight of the UI is a sliding color bar;
+        as you slide a bar over a rainbow, the search results (of clothing) update in real time. I also
+        provided a multi-color selection palette so search results could include multiple colors. And a
+        Hackday project wouldn't be complete without a cheap "hack", so to increase speed results for
+        the demo (they didn't have time to add caching in the data model) I added localStorage caching to
+        the front-end to make the UI smooth. We won second place. Color Search was later built as an add-on
+        feature to ecomm search.
+      </p>
+
+      <h3>Video Demo</h3>
+
+      <div class="video-wrapper">
+        <iframe src="https://drive.google.com/file/d/1OSek5RKSysFEeZssaGTITQ7YsvukTtx_/preview" width="800" height="600" allow="autoplay"></iframe>
+      </div>
+
+      <h3>Screenshots</h3>
+      <div class="screenshot-wrapper">
+        <img src="color-search-red.png" />
+        <img src="color-search-blue.png" />
+        <img src="color-search-multi.png" />
+      </div>
+
+    </div>
+
+  </body>
 
 </html>
