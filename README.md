@@ -6,6 +6,7 @@
 - 👯 I’m looking at contributing to an open source project, but I'm still searching for the right fit.
 - 📫 How to reach me: [linkedin.com/in/mlodz/](https://www.linkedin.com/in/mlodz/)
 - 😄 Currently working as a Senior Member of Technical Staff at Salesforce in the Personalization group.
+- 📄  [My Resume](https://drive.google.com/file/d/1RlCUM4vTlZcIMgKA6LyWyN55kxspYTXH/view?usp=sharing)
 
 <!--
 **mlodz/mlodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
