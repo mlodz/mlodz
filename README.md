@@ -5,7 +5,7 @@
 - 🌱 I’m currently diving into the more recent front-end tech I haven't had a chance to explore yet, my favorite at the moment is Progressive Web Apps (PWAs).
 - 👯 I’m looking at contributing to an open source project, but I'm still searching for the right fit.
 - 📫 How to reach me: [linkedin.com/in/mlodz/](https://www.linkedin.com/in/mlodz/)
-- 😄 Currently working as a Senior Software Engineer at Verily.
+- 😄 Currently working as the Lead UI Engineer for Workbench at Verily.
 - 📄  [My Resume](https://drive.google.com/file/d/1RlCUM4vTlZcIMgKA6LyWyN55kxspYTXH/view?usp=sharing)
 
 <!--
